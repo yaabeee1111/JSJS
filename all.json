@@ -1,0 +1,14 @@
+{
+    "name":"server",
+    "version": "1.0.0",
+    "description" :"",
+    "main":"app.js",
+    "scripts":{
+        "start":"node all.js"
+    },
+    "engines":{
+        "node":"10.x"
+    },
+    "author":"",
+    "license":"ISC"
+}
